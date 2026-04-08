@@ -52,8 +52,8 @@ This project addresses these challenges through structured data analysis and coh
   - Implemented using **Excel VLOOKUP**
 
 - **Feature Engineering (Age Cohort Segmentation)**
-  - Young: < 30 years  
-  - Adult: 30–45 years  
+  - Dewasa: < 30 years  
+  - Muda: 30–45 years  
   - Senior: > 45 years  
 
 ---
@@ -85,8 +85,8 @@ Where:
 
 | Age Group        | Total Hours | Percentage |
 |-----------------|------------|------------|
-| Adult (30–45)   | 7,781      | 58.3%      |
-| Young (<30)     | 3,132      | 23.5%      |
+| Dewasa (30–45)   | 7,781      | 58.3%      |
+| Muda (<30)     | 3,132      | 23.5%      |
 | Senior (>45)    | 2,420      | 18.2%      |
 
 ---
